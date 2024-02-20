@@ -19,7 +19,18 @@ h2{
     padding: 50px;
 }
 
-body{
+/* body{
     background: lightcyan;
+    color: white;
+} */
+
+/* body{
+    background: url(bunga2.jfif);
+    color: white;
+} */
+
+body{
+    background: url(img/tree1.jpg), url(img/field1.jpg);
+    background-repeat: no-repeat, repeat;
     color: white;
 }
